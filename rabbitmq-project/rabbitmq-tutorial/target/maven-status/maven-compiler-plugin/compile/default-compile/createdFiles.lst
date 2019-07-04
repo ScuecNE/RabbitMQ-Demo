@@ -1,0 +1,5 @@
+com/sugus/rabbitmqtutorial/sender/Tut1Sender.class
+com/sugus/rabbitmqtutorial/runner/RabbitTutorialRunner.class
+com/sugus/rabbitmqtutorial/receiver/Tut1Receiver.class
+com/sugus/rabbitmqtutorial/config/Tut1Config.class
+com/sugus/rabbitmqtutorial/RabbitmqTutorialApplication.class
