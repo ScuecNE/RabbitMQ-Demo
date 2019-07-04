@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rabbitmq-tutorial
+  profiles:
+    active: usage_message
+
+tutorial:
+  client:
+    duration: 10000
