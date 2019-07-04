@@ -1,0 +1,5 @@
+/Users/suguswong/github/RabbitMQ-Demo/rabbitmq-project/rabbitmq-tutorial/src/main/java/com/sugus/rabbitmqtutorial/runner/RabbitTutorialRunner.java
+/Users/suguswong/github/RabbitMQ-Demo/rabbitmq-project/rabbitmq-tutorial/src/main/java/com/sugus/rabbitmqtutorial/config/Tut1Config.java
+/Users/suguswong/github/RabbitMQ-Demo/rabbitmq-project/rabbitmq-tutorial/src/main/java/com/sugus/rabbitmqtutorial/RabbitmqTutorialApplication.java
+/Users/suguswong/github/RabbitMQ-Demo/rabbitmq-project/rabbitmq-tutorial/src/main/java/com/sugus/rabbitmqtutorial/receiver/Tut1Receiver.java
+/Users/suguswong/github/RabbitMQ-Demo/rabbitmq-project/rabbitmq-tutorial/src/main/java/com/sugus/rabbitmqtutorial/sender/Tut1Sender.java
